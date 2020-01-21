@@ -8,14 +8,17 @@ body {
 
 .container {
 	margin-top:12rem;
-	max-width: 70%;
 	margin-left:auto;
 	margin-right:auto;
 }
 .logo {
-	width:600px;
-	height:auto;
+	width:75%;
+	margin-bottom:1rem;
 }
 .promo {
 	font-size:1.4em;
+}
+.icon {
+	width:40px;
+	height:auto;
 }
