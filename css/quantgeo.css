@@ -7,13 +7,17 @@ body {
 }
 
 .container {
-	margin-top:12rem;
+	margin-top:10rem;
 	margin-left:auto;
 	margin-right:auto;
 }
-.logo {
-	width:75%;
-	margin-bottom:1rem;
+.logogram {
+	width:20%;
+	margin-bottom:1.5rem;
+}
+.logotext {
+	width:80%;
+	margin-bottom:1.5rem;
 }
 .promo {
 	font-size:1.4em;
